@@ -1,5 +1,5 @@
 # AstroStudy
-Фpp for learning astronomy. Includes theory on various topics and special tests
+App for learning astronomy. Includes theory on various topics and special tests
 
 The app was built with Unity. The file to run on android is attached.
 
